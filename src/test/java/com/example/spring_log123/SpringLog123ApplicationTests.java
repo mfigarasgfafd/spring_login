@@ -1,13 +1,13 @@
-package com.example.spring_login;
+package com.example.spring_log123;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringLoginApplicationTests {
+class SpringLog123ApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
